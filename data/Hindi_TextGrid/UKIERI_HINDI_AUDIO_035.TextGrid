@@ -1,0 +1,1022 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1771.125260770975 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Turn-taking" 
+        xmin = 0 
+        xmax = 1771.125260770975 
+        intervals: size = 120 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.57151763882076 
+            text = "" 
+        intervals [2]:
+            xmin = 14.57151763882076 
+            xmax = 447.23374735062345 
+            text = "TCU" 
+        intervals [3]:
+            xmin = 447.23374735062345 
+            xmax = 493.3627976730119 
+            text = "TCU" 
+        intervals [4]:
+            xmin = 493.3627976730119 
+            xmax = 524.6674781124474 
+            text = "TCU" 
+        intervals [5]:
+            xmin = 524.6674781124474 
+            xmax = 567.0842704589255 
+            text = "TCU" 
+        intervals [6]:
+            xmin = 567.0842704589255 
+            xmax = 577.5620265774588 
+            text = "INT" 
+        intervals [7]:
+            xmin = 577.5620265774588 
+            xmax = 589.5101005683755 
+            text = "TCU" 
+        intervals [8]:
+            xmin = 589.5101005683755 
+            xmax = 597.7532587237184 
+            text = "INT" 
+        intervals [9]:
+            xmin = 597.7532587237184 
+            xmax = 599.3973835427653 
+            text = "TCU" 
+        intervals [10]:
+            xmin = 599.3973835427653 
+            xmax = 604.7672934040866 
+            text = "INT" 
+        intervals [11]:
+            xmin = 604.7672934040866 
+            xmax = 628.5274183453433 
+            text = "TCU" 
+        intervals [12]:
+            xmin = 628.5274183453433 
+            xmax = 641.9915684492813 
+            text = "TCU" 
+        intervals [13]:
+            xmin = 641.9915684492813 
+            xmax = 660.259913838454 
+            text = "INT" 
+        intervals [14]:
+            xmin = 660.259913838454 
+            xmax = 699.3996883367051 
+            text = "TCU" 
+        intervals [15]:
+            xmin = 699.3996883367051 
+            xmax = 736.5887156935584 
+            text = "TCU" 
+        intervals [16]:
+            xmin = 736.5887156935584 
+            xmax = 849.2248424019213 
+            text = "TCU" 
+        intervals [17]:
+            xmin = 849.2248424019213 
+            xmax = 853.8472581770669 
+            text = "INT" 
+        intervals [18]:
+            xmin = 853.8472581770669 
+            xmax = 870.2137147106082 
+            text = "TCU" 
+        intervals [19]:
+            xmin = 870.2137147106082 
+            xmax = 887.8087537378608 
+            text = "INT" 
+        intervals [20]:
+            xmin = 887.8087537378608 
+            xmax = 942.3634131728252 
+            text = "TCU" 
+        intervals [21]:
+            xmin = 942.3634131728252 
+            xmax = 974.3154295751057 
+            text = "TCU" 
+        intervals [22]:
+            xmin = 974.3154295751057 
+            xmax = 982.9302506654955 
+            text = "TCU" 
+        intervals [23]:
+            xmin = 982.9302506654955 
+            xmax = 985.0986310993419 
+            text = "INT" 
+        intervals [24]:
+            xmin = 985.0986310993419 
+            xmax = 988.3317252791488 
+            text = "TCU" 
+        intervals [25]:
+            xmin = 988.3317252791488 
+            xmax = 991.3700547493288 
+            text = "TCU" 
+        intervals [26]:
+            xmin = 991.3700547493288 
+            xmax = 995.6140875929012 
+            text = "TCU" 
+        intervals [27]:
+            xmin = 995.6140875929012 
+            xmax = 998.0421543062502 
+            text = "INT" 
+        intervals [28]:
+            xmin = 998.0421543062502 
+            xmax = 1006.1431555694479 
+            text = "TCU" 
+        intervals [29]:
+            xmin = 1006.1431555694479 
+            xmax = 1024.9679886332567 
+            text = "TCU" 
+        intervals [30]:
+            xmin = 1024.9679886332567 
+            xmax = 1026.5001376823218 
+            text = "INT" 
+        intervals [31]:
+            xmin = 1026.5001376823218 
+            xmax = 1032.9985147092032 
+            text = "TCU" 
+        intervals [32]:
+            xmin = 1032.9985147092032 
+            xmax = 1034.0502441411886 
+            text = "OVP" 
+        intervals [33]:
+            xmin = 1034.0502441411886 
+            xmax = 1045.734915175959 
+            text = "TCU" 
+        intervals [34]:
+            xmin = 1045.734915175959 
+            xmax = 1050.3573309511048 
+            text = "INT" 
+        intervals [35]:
+            xmin = 1050.3573309511048 
+            xmax = 1051.1623584175627 
+            text = "OVP" 
+        intervals [36]:
+            xmin = 1051.1623584175627 
+            xmax = 1078.0838506700386 
+            text = "TCU" 
+        intervals [37]:
+            xmin = 1078.0838506700386 
+            xmax = 1086.458147924601 
+            text = "INT" 
+        intervals [38]:
+            xmin = 1086.458147924601 
+            xmax = 1088.5129156111652 
+            text = "INT" 
+        intervals [39]:
+            xmin = 1088.5129156111652 
+            xmax = 1094.3175511686852 
+            text = "INT" 
+        intervals [40]:
+            xmin = 1094.3175511686852 
+            xmax = 1095.79776296185 
+            text = "TCU" 
+        intervals [41]:
+            xmin = 1095.79776296185 
+            xmax = 1098.1674002623108 
+            text = "INT" 
+        intervals [42]:
+            xmin = 1098.1674002623108 
+            xmax = 1099.3953573581348 
+            text = "INT" 
+        intervals [43]:
+            xmin = 1099.3953573581348 
+            xmax = 1100.3237358073566 
+            text = "TCU" 
+        intervals [44]:
+            xmin = 1100.3237358073566 
+            xmax = 1123.0602500270352 
+            text = "TCU" 
+        intervals [45]:
+            xmin = 1123.0602500270352 
+            xmax = 1142.7983271436335 
+            text = "INT" 
+        intervals [46]:
+            xmin = 1142.7983271436335 
+            xmax = 1146.2326781900551 
+            text = "TCU" 
+        intervals [47]:
+            xmin = 1146.2326781900551 
+            xmax = 1153.1564280012383 
+            text = "TCU" 
+        intervals [48]:
+            xmin = 1153.1564280012383 
+            xmax = 1155.8111148805108 
+            text = "TCU" 
+        intervals [49]:
+            xmin = 1155.8111148805108 
+            xmax = 1156.330487439516 
+            text = "INT" 
+        intervals [50]:
+            xmin = 1156.330487439516 
+            xmax = 1161.9558049676239 
+            text = "TCU" 
+        intervals [51]:
+            xmin = 1161.9558049676239 
+            xmax = 1167.5820409660976 
+            text = "INT" 
+        intervals [52]:
+            xmin = 1167.5820409660976 
+            xmax = 1168.3546076476177 
+            text = "OVP" 
+        intervals [53]:
+            xmin = 1168.3546076476177 
+            xmax = 1178.6601659206808 
+            text = "TCU" 
+        intervals [54]:
+            xmin = 1178.6601659206808 
+            xmax = 1181.919228728438 
+            text = "INT" 
+        intervals [55]:
+            xmin = 1181.919228728438 
+            xmax = 1191.6142102173826 
+            text = "TCU" 
+        intervals [56]:
+            xmin = 1191.6142102173826 
+            xmax = 1196.9328524988216 
+            text = "INT" 
+        intervals [57]:
+            xmin = 1196.9328524988216 
+            xmax = 1210.7073927549466 
+            text = "TCU" 
+        intervals [58]:
+            xmin = 1210.7073927549466 
+            xmax = 1211.8110594428326 
+            text = "INT" 
+        intervals [59]:
+            xmin = 1211.8110594428326 
+            xmax = 1212.4862437695392 
+            text = "OVP" 
+        intervals [60]:
+            xmin = 1212.4862437695392 
+            xmax = 1219.0785804326317 
+            text = "TCU" 
+        intervals [61]:
+            xmin = 1219.0785804326317 
+            xmax = 1221.1885314535903 
+            text = "TCU" 
+        intervals [62]:
+            xmin = 1221.1885314535903 
+            xmax = 1228.69162710492 
+            text = "TCU" 
+        intervals [63]:
+            xmin = 1228.69162710492 
+            xmax = 1231.3379639316643 
+            text = "INT" 
+        intervals [64]:
+            xmin = 1231.3379639316643 
+            xmax = 1236.0296433512162 
+            text = "TCU" 
+        intervals [65]:
+            xmin = 1236.0296433512162 
+            xmax = 1246.7896508422834 
+            text = "INT" 
+        intervals [66]:
+            xmin = 1246.7896508422834 
+            xmax = 1265.0595610545176 
+            text = "TCU" 
+        intervals [67]:
+            xmin = 1265.0595610545176 
+            xmax = 1272.5771857736381 
+            text = "INT" 
+        intervals [68]:
+            xmin = 1272.5771857736381 
+            xmax = 1275.083158370838 
+            text = "TCU" 
+        intervals [69]:
+            xmin = 1275.083158370838 
+            xmax = 1283.8618281397323 
+            text = "TCU" 
+        intervals [70]:
+            xmin = 1283.8618281397323 
+            xmax = 1303.0947276685831 
+            text = "TCU" 
+        intervals [71]:
+            xmin = 1303.0947276685831 
+            xmax = 1305.3799669282057 
+            text = "INT" 
+        intervals [72]:
+            xmin = 1305.3799669282057 
+            xmax = 1317.4211012686512 
+            text = "TCU" 
+        intervals [73]:
+            xmin = 1317.4211012686512 
+            xmax = 1318.2910503049848 
+            text = "TCU" 
+        intervals [74]:
+            xmin = 1318.2910503049848 
+            xmax = 1359.5757199025593 
+            text = "TCU" 
+        intervals [75]:
+            xmin = 1359.5757199025593 
+            xmax = 1360.5430512937064 
+            text = "INT" 
+        intervals [76]:
+            xmin = 1360.5430512937064 
+            xmax = 1363.4320611531725 
+            text = "TCU" 
+        intervals [77]:
+            xmin = 1363.4320611531725 
+            xmax = 1373.9190857946 
+            text = "INT" 
+        intervals [78]:
+            xmin = 1373.9190857946 
+            xmax = 1376.9116779789506 
+            text = "TCU" 
+        intervals [79]:
+            xmin = 1376.9116779789506 
+            xmax = 1379.7422584255287 
+            text = "INT" 
+        intervals [80]:
+            xmin = 1379.7422584255287 
+            xmax = 1389.9912442956813 
+            text = "TCU" 
+        intervals [81]:
+            xmin = 1389.9912442956813 
+            xmax = 1391.711665897386 
+            text = "INT" 
+        intervals [82]:
+            xmin = 1391.711665897386 
+            xmax = 1400.7367236045204 
+            text = "TCU" 
+        intervals [83]:
+            xmin = 1400.7367236045204 
+            xmax = 1421.7883674006264 
+            text = "TCU" 
+        intervals [84]:
+            xmin = 1421.7883674006264 
+            xmax = 1426.5047838360379 
+            text = "TCU" 
+        intervals [85]:
+            xmin = 1426.5047838360379 
+            xmax = 1427.874628960414 
+            text = "INT" 
+        intervals [86]:
+            xmin = 1427.874628960414 
+            xmax = 1434.5028290578005 
+            text = "TCU" 
+        intervals [87]:
+            xmin = 1434.5028290578005 
+            xmax = 1437.9047193192841 
+            text = "INT" 
+        intervals [88]:
+            xmin = 1437.9047193192841 
+            xmax = 1443.5896978723708 
+            text = "TCU" 
+        intervals [89]:
+            xmin = 1443.5896978723708 
+            xmax = 1447.9620299874414 
+            text = "INT" 
+        intervals [90]:
+            xmin = 1447.9620299874414 
+            xmax = 1449.85773982781 
+            text = "INT" 
+        intervals [91]:
+            xmin = 1449.85773982781 
+            xmax = 1451.934937876914 
+            text = "TCU" 
+        intervals [92]:
+            xmin = 1451.934937876914 
+            xmax = 1454.635675183741 
+            text = "INT" 
+        intervals [93]:
+            xmin = 1454.635675183741 
+            xmax = 1460.2560453086767 
+            text = "INT" 
+        intervals [94]:
+            xmin = 1460.2560453086767 
+            xmax = 1490.1426172492997 
+            text = "INT" 
+        intervals [95]:
+            xmin = 1490.1426172492997 
+            xmax = 1507.3771640380717 
+            text = "INT" 
+        intervals [96]:
+            xmin = 1507.3771640380717 
+            xmax = 1513.026592298589 
+            text = "INT" 
+        intervals [97]:
+            xmin = 1513.026592298589 
+            xmax = 1516.0612260469343 
+            text = "TCU" 
+        intervals [98]:
+            xmin = 1516.0612260469343 
+            xmax = 1518.4503398183579 
+            text = "INT" 
+        intervals [99]:
+            xmin = 1518.4503398183579 
+            xmax = 1520.0019653383858 
+            text = "TCU" 
+        intervals [100]:
+            xmin = 1520.0019653383858 
+            xmax = 1525.2164199662989 
+            text = "INT" 
+        intervals [101]:
+            xmin = 1525.2164199662989 
+            xmax = 1525.7215757136755 
+            text = "TCU" 
+        intervals [102]:
+            xmin = 1525.7215757136755 
+            xmax = 1527.5783326121189 
+            text = "INT" 
+        intervals [103]:
+            xmin = 1527.5783326121189 
+            xmax = 1532.4521055690475 
+            text = "TCU" 
+        intervals [104]:
+            xmin = 1532.4521055690475 
+            xmax = 1538.4555138418123 
+            text = "INT" 
+        intervals [105]:
+            xmin = 1538.4555138418123 
+            xmax = 1550.3974079319037 
+            text = "TCU" 
+        intervals [106]:
+            xmin = 1550.3974079319037 
+            xmax = 1551.1764667704113 
+            text = "TCU" 
+        intervals [107]:
+            xmin = 1551.1764667704113 
+            xmax = 1555.3444315564277 
+            text = "INT" 
+        intervals [108]:
+            xmin = 1555.3444315564277 
+            xmax = 1560.8055881498683 
+            text = "INT" 
+        intervals [109]:
+            xmin = 1560.8055881498683 
+            xmax = 1561.7234664641048 
+            text = "OVP" 
+        intervals [110]:
+            xmin = 1561.7234664641048 
+            xmax = 1561.8792782318064 
+            text = "TCU" 
+        intervals [111]:
+            xmin = 1561.8792782318064 
+            xmax = 1575.3984533281512 
+            text = "INT" 
+        intervals [112]:
+            xmin = 1575.3984533281512 
+            xmax = 1581.0237717418215 
+            text = "INT" 
+        intervals [113]:
+            xmin = 1581.0237717418215 
+            xmax = 1584.5842710917218 
+            text = "INT" 
+        intervals [114]:
+            xmin = 1584.5842710917218 
+            xmax = 1589.9273162924871 
+            text = "TCU" 
+        intervals [115]:
+            xmin = 1589.9273162924871 
+            xmax = 1600.873448024862 
+            text = "TCU" 
+        intervals [116]:
+            xmin = 1600.873448024862 
+            xmax = 1632.1307826746645 
+            text = "INT" 
+        intervals [117]:
+            xmin = 1632.1307826746645 
+            xmax = 1672.0740389999953 
+            text = "TCU" 
+        intervals [118]:
+            xmin = 1672.0740389999953 
+            xmax = 1691.9536910034208 
+            text = "INT" 
+        intervals [119]:
+            xmin = 1691.9536910034208 
+            xmax = 1771.0725441757809 
+            text = "TCU" 
+        intervals [120]:
+            xmin = 1771.0725441757809 
+            xmax = 1771.125260770975 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Aggression" 
+        xmin = 0 
+        xmax = 1771.125260770975 
+        intervals: size = 128 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.57151763882076 
+            text = "IR" 
+        intervals [2]:
+            xmin = 14.57151763882076 
+            xmax = 447.23374735062345 
+            text = "NAG" 
+        intervals [3]:
+            xmin = 447.23374735062345 
+            xmax = 493.3627976730119 
+            text = "NAG" 
+        intervals [4]:
+            xmin = 493.3627976730119 
+            xmax = 524.6674781124474 
+            text = "NAG" 
+        intervals [5]:
+            xmin = 524.6674781124474 
+            xmax = 567.0842704589255 
+            text = "NAG" 
+        intervals [6]:
+            xmin = 567.0842704589255 
+            xmax = 577.5620265774588 
+            text = "NAG" 
+        intervals [7]:
+            xmin = 577.5620265774588 
+            xmax = 589.5101005683755 
+            text = "NAG" 
+        intervals [8]:
+            xmin = 589.5101005683755 
+            xmax = 597.7532587237184 
+            text = "NAG" 
+        intervals [9]:
+            xmin = 597.7532587237184 
+            xmax = 599.3973835427653 
+            text = "NAG" 
+        intervals [10]:
+            xmin = 599.3973835427653 
+            xmax = 604.7672934040866 
+            text = "NAG" 
+        intervals [11]:
+            xmin = 604.7672934040866 
+            xmax = 628.5274183453433 
+            text = "NAG" 
+        intervals [12]:
+            xmin = 628.5274183453433 
+            xmax = 641.9915684492813 
+            text = "NAG" 
+        intervals [13]:
+            xmin = 641.9915684492813 
+            xmax = 660.259913838454 
+            text = "NAG" 
+        intervals [14]:
+            xmin = 660.259913838454 
+            xmax = 699.3996883367051 
+            text = "NAG" 
+        intervals [15]:
+            xmin = 699.3996883367051 
+            xmax = 736.5887156935584 
+            text = "NAG" 
+        intervals [16]:
+            xmin = 736.5887156935584 
+            xmax = 849.2248424019213 
+            text = "NAG" 
+        intervals [17]:
+            xmin = 849.2248424019213 
+            xmax = 853.8472581770669 
+            text = "NAG" 
+        intervals [18]:
+            xmin = 853.8472581770669 
+            xmax = 870.2137147106082 
+            text = "NAG" 
+        intervals [19]:
+            xmin = 870.2137147106082 
+            xmax = 887.8087537378608 
+            text = "NAG" 
+        intervals [20]:
+            xmin = 887.8087537378608 
+            xmax = 942.3634131728252 
+            text = "NAG" 
+        intervals [21]:
+            xmin = 942.3634131728252 
+            xmax = 974.3154295751057 
+            text = "NAG" 
+        intervals [22]:
+            xmin = 974.3154295751057 
+            xmax = 982.9302506654955 
+            text = "NAG" 
+        intervals [23]:
+            xmin = 982.9302506654955 
+            xmax = 985.0986310993419 
+            text = "NAG" 
+        intervals [24]:
+            xmin = 985.0986310993419 
+            xmax = 988.3317252791488 
+            text = "NAG" 
+        intervals [25]:
+            xmin = 988.3317252791488 
+            xmax = 991.3700547493288 
+            text = "NAG" 
+        intervals [26]:
+            xmin = 991.3700547493288 
+            xmax = 995.6140875929012 
+            text = "NAG" 
+        intervals [27]:
+            xmin = 995.6140875929012 
+            xmax = 998.0421543062502 
+            text = "NAG" 
+        intervals [28]:
+            xmin = 998.0421543062502 
+            xmax = 1006.1431555694479 
+            text = "NAG" 
+        intervals [29]:
+            xmin = 1006.1431555694479 
+            xmax = 1024.9679886332567 
+            text = "NAG" 
+        intervals [30]:
+            xmin = 1024.9679886332567 
+            xmax = 1026.5001376823218 
+            text = "NAG" 
+        intervals [31]:
+            xmin = 1026.5001376823218 
+            xmax = 1032.9985147092032 
+            text = "NAG" 
+        intervals [32]:
+            xmin = 1032.9985147092032 
+            xmax = 1034.0502441411886 
+            text = "NAG" 
+        intervals [33]:
+            xmin = 1034.0502441411886 
+            xmax = 1045.734915175959 
+            text = "NAG" 
+        intervals [34]:
+            xmin = 1045.734915175959 
+            xmax = 1050.3573309511048 
+            text = "NAG" 
+        intervals [35]:
+            xmin = 1050.3573309511048 
+            xmax = 1051.1623584175627 
+            text = "NAG" 
+        intervals [36]:
+            xmin = 1051.1623584175627 
+            xmax = 1078.0838506700386 
+            text = "NAG" 
+        intervals [37]:
+            xmin = 1078.0838506700386 
+            xmax = 1086.458147924601 
+            text = "NAG" 
+        intervals [38]:
+            xmin = 1086.458147924601 
+            xmax = 1088.5129156111652 
+            text = "NAG" 
+        intervals [39]:
+            xmin = 1088.5129156111652 
+            xmax = 1094.3175511686852 
+            text = "NAG" 
+        intervals [40]:
+            xmin = 1094.3175511686852 
+            xmax = 1095.79776296185 
+            text = "NAG" 
+        intervals [41]:
+            xmin = 1095.79776296185 
+            xmax = 1098.1674002623108 
+            text = "NAG" 
+        intervals [42]:
+            xmin = 1098.1674002623108 
+            xmax = 1099.3953573581348 
+            text = "NAG" 
+        intervals [43]:
+            xmin = 1099.3953573581348 
+            xmax = 1100.3237358073566 
+            text = "NAG" 
+        intervals [44]:
+            xmin = 1100.3237358073566 
+            xmax = 1123.0602500270352 
+            text = "NAG" 
+        intervals [45]:
+            xmin = 1123.0602500270352 
+            xmax = 1142.7983271436335 
+            text = "NAG" 
+        intervals [46]:
+            xmin = 1142.7983271436335 
+            xmax = 1146.2326781900551 
+            text = "NAG" 
+        intervals [47]:
+            xmin = 1146.2326781900551 
+            xmax = 1153.1564280012383 
+            text = "NAG" 
+        intervals [48]:
+            xmin = 1153.1564280012383 
+            xmax = 1155.8111148805108 
+            text = "NAG" 
+        intervals [49]:
+            xmin = 1155.8111148805108 
+            xmax = 1156.330487439516 
+            text = "NAG" 
+        intervals [50]:
+            xmin = 1156.330487439516 
+            xmax = 1161.9558049676239 
+            text = "NAG" 
+        intervals [51]:
+            xmin = 1161.9558049676239 
+            xmax = 1167.5820409660976 
+            text = "NAG" 
+        intervals [52]:
+            xmin = 1167.5820409660976 
+            xmax = 1168.3546076476177 
+            text = "NAG" 
+        intervals [53]:
+            xmin = 1168.3546076476177 
+            xmax = 1178.6601659206808 
+            text = "NAG" 
+        intervals [54]:
+            xmin = 1178.6601659206808 
+            xmax = 1181.919228728438 
+            text = "NAG" 
+        intervals [55]:
+            xmin = 1181.919228728438 
+            xmax = 1191.6142102173826 
+            text = "NAG" 
+        intervals [56]:
+            xmin = 1191.6142102173826 
+            xmax = 1196.9328524988216 
+            text = "NAG" 
+        intervals [57]:
+            xmin = 1196.9328524988216 
+            xmax = 1210.7073927549466 
+            text = "NAG" 
+        intervals [58]:
+            xmin = 1210.7073927549466 
+            xmax = 1211.8110594428326 
+            text = "NAG" 
+        intervals [59]:
+            xmin = 1211.8110594428326 
+            xmax = 1212.4862437695392 
+            text = "NAG" 
+        intervals [60]:
+            xmin = 1212.4862437695392 
+            xmax = 1219.0785804326317 
+            text = "NAG" 
+        intervals [61]:
+            xmin = 1219.0785804326317 
+            xmax = 1221.1885314535903 
+            text = "NAG" 
+        intervals [62]:
+            xmin = 1221.1885314535903 
+            xmax = 1228.69162710492 
+            text = "NAG" 
+        intervals [63]:
+            xmin = 1228.69162710492 
+            xmax = 1231.3379639316643 
+            text = "NAG" 
+        intervals [64]:
+            xmin = 1231.3379639316643 
+            xmax = 1236.0296433512162 
+            text = "NAG" 
+        intervals [65]:
+            xmin = 1236.0296433512162 
+            xmax = 1237.3855848056883 
+            text = "OAG_NT" 
+        intervals [66]:
+            xmin = 1237.3855848056883 
+            xmax = 1246.7896508422834 
+            text = "NAG" 
+        intervals [67]:
+            xmin = 1246.7896508422834 
+            xmax = 1265.0595610545176 
+            text = "NAG" 
+        intervals [68]:
+            xmin = 1265.0595610545176 
+            xmax = 1272.5771857736381 
+            text = "NAG" 
+        intervals [69]:
+            xmin = 1272.5771857736381 
+            xmax = 1275.083158370838 
+            text = "NAG" 
+        intervals [70]:
+            xmin = 1275.083158370838 
+            xmax = 1283.8618281397323 
+            text = "NAG" 
+        intervals [71]:
+            xmin = 1283.8618281397323 
+            xmax = 1303.0947276685831 
+            text = "NAG" 
+        intervals [72]:
+            xmin = 1303.0947276685831 
+            xmax = 1305.3799669282057 
+            text = "NAG" 
+        intervals [73]:
+            xmin = 1305.3799669282057 
+            xmax = 1317.4211012686512 
+            text = "NAG" 
+        intervals [74]:
+            xmin = 1317.4211012686512 
+            xmax = 1318.2910503049848 
+            text = "NAG" 
+        intervals [75]:
+            xmin = 1318.2910503049848 
+            xmax = 1359.5757199025593 
+            text = "NAG" 
+        intervals [76]:
+            xmin = 1359.5757199025593 
+            xmax = 1360.5430512937064 
+            text = "NAG" 
+        intervals [77]:
+            xmin = 1360.5430512937064 
+            xmax = 1363.4320611531725 
+            text = "NAG" 
+        intervals [78]:
+            xmin = 1363.4320611531725 
+            xmax = 1367.6822730120077 
+            text = "NAG" 
+        intervals [79]:
+            xmin = 1367.6822730120077 
+            xmax = 1368.7080338160429 
+            text = "OAG_NT" 
+        intervals [80]:
+            xmin = 1368.7080338160429 
+            xmax = 1373.9190857946 
+            text = "" 
+        intervals [81]:
+            xmin = 1373.9190857946 
+            xmax = 1376.9116779789506 
+            text = "NAG" 
+        intervals [82]:
+            xmin = 1376.9116779789506 
+            xmax = 1379.7422584255287 
+            text = "OAG_NT" 
+        intervals [83]:
+            xmin = 1379.7422584255287 
+            xmax = 1389.9912442956813 
+            text = "NAG" 
+        intervals [84]:
+            xmin = 1389.9912442956813 
+            xmax = 1391.711665897386 
+            text = "NAG" 
+        intervals [85]:
+            xmin = 1391.711665897386 
+            xmax = 1400.7367236045204 
+            text = "NAG" 
+        intervals [86]:
+            xmin = 1400.7367236045204 
+            xmax = 1421.7883674006264 
+            text = "NAG" 
+        intervals [87]:
+            xmin = 1421.7883674006264 
+            xmax = 1426.5047838360379 
+            text = "NAG" 
+        intervals [88]:
+            xmin = 1426.5047838360379 
+            xmax = 1427.874628960414 
+            text = "NAG" 
+        intervals [89]:
+            xmin = 1427.874628960414 
+            xmax = 1434.5028290578005 
+            text = "NAG" 
+        intervals [90]:
+            xmin = 1434.5028290578005 
+            xmax = 1437.9047193192841 
+            text = "NAG" 
+        intervals [91]:
+            xmin = 1437.9047193192841 
+            xmax = 1443.5896978723708 
+            text = "NAG" 
+        intervals [92]:
+            xmin = 1443.5896978723708 
+            xmax = 1447.9620299874414 
+            text = "NAG" 
+        intervals [93]:
+            xmin = 1447.9620299874414 
+            xmax = 1449.85773982781 
+            text = "NAG" 
+        intervals [94]:
+            xmin = 1449.85773982781 
+            xmax = 1451.934937876914 
+            text = "NAG" 
+        intervals [95]:
+            xmin = 1451.934937876914 
+            xmax = 1454.1227947817233 
+            text = "NAG" 
+        intervals [96]:
+            xmin = 1454.1227947817233 
+            xmax = 1454.635675183741 
+            text = "OAG_NT" 
+        intervals [97]:
+            xmin = 1454.635675183741 
+            xmax = 1460.2560453086767 
+            text = "OAG_NT" 
+        intervals [98]:
+            xmin = 1460.2560453086767 
+            xmax = 1490.1426172492997 
+            text = "NAG" 
+        intervals [99]:
+            xmin = 1490.1426172492997 
+            xmax = 1504.228467899103 
+            text = "NAG" 
+        intervals [100]:
+            xmin = 1504.228467899103 
+            xmax = 1507.3771640380717 
+            text = "OAG_NT" 
+        intervals [101]:
+            xmin = 1507.3771640380717 
+            xmax = 1513.026592298589 
+            text = "NAG" 
+        intervals [102]:
+            xmin = 1513.026592298589 
+            xmax = 1516.0612260469343 
+            text = "NAG" 
+        intervals [103]:
+            xmin = 1516.0612260469343 
+            xmax = 1518.4503398183579 
+            text = "NAG" 
+        intervals [104]:
+            xmin = 1518.4503398183579 
+            xmax = 1520.0019653383858 
+            text = "NAG" 
+        intervals [105]:
+            xmin = 1520.0019653383858 
+            xmax = 1525.2164199662989 
+            text = "NAG" 
+        intervals [106]:
+            xmin = 1525.2164199662989 
+            xmax = 1525.7215757136755 
+            text = "NAG" 
+        intervals [107]:
+            xmin = 1525.7215757136755 
+            xmax = 1527.5783326121189 
+            text = "NAG" 
+        intervals [108]:
+            xmin = 1527.5783326121189 
+            xmax = 1532.4521055690475 
+            text = "NAG" 
+        intervals [109]:
+            xmin = 1532.4521055690475 
+            xmax = 1538.4555138418123 
+            text = "NAG" 
+        intervals [110]:
+            xmin = 1538.4555138418123 
+            xmax = 1550.3974079319037 
+            text = "NAG" 
+        intervals [111]:
+            xmin = 1550.3974079319037 
+            xmax = 1551.1764667704113 
+            text = "NAG" 
+        intervals [112]:
+            xmin = 1551.1764667704113 
+            xmax = 1555.3444315564277 
+            text = "NAG" 
+        intervals [113]:
+            xmin = 1555.3444315564277 
+            xmax = 1559.305899885741 
+            text = "OAG_NT" 
+        intervals [114]:
+            xmin = 1559.305899885741 
+            xmax = 1560.8055881498683 
+            text = "NAG" 
+        intervals [115]:
+            xmin = 1560.8055881498683 
+            xmax = 1561.7234664641048 
+            text = "NAG" 
+        intervals [116]:
+            xmin = 1561.7234664641048 
+            xmax = 1561.8792782318064 
+            text = "NAG" 
+        intervals [117]:
+            xmin = 1561.8792782318064 
+            xmax = 1568.7847822985555 
+            text = "OAG_NT" 
+        intervals [118]:
+            xmin = 1568.7847822985555 
+            xmax = 1574.0480846747378 
+            text = "NAG" 
+        intervals [119]:
+            xmin = 1574.0480846747378 
+            xmax = 1575.3984533281512 
+            text = "OAG_NT" 
+        intervals [120]:
+            xmin = 1575.3984533281512 
+            xmax = 1581.0237717418215 
+            text = "NAG" 
+        intervals [121]:
+            xmin = 1581.0237717418215 
+            xmax = 1584.5842710917218 
+            text = "OAG_NT" 
+        intervals [122]:
+            xmin = 1584.5842710917218 
+            xmax = 1589.9273162924871 
+            text = "NAG" 
+        intervals [123]:
+            xmin = 1589.9273162924871 
+            xmax = 1600.873448024862 
+            text = "NAG" 
+        intervals [124]:
+            xmin = 1600.873448024862 
+            xmax = 1632.1307826746645 
+            text = "NAG" 
+        intervals [125]:
+            xmin = 1632.1307826746645 
+            xmax = 1672.0740389999953 
+            text = "NAG" 
+        intervals [126]:
+            xmin = 1672.0740389999953 
+            xmax = 1691.9536910034208 
+            text = "NAG" 
+        intervals [127]:
+            xmin = 1691.9536910034208 
+            xmax = 1771.0725441757809 
+            text = "NAG" 
+        intervals [128]:
+            xmin = 1771.0725441757809 
+            xmax = 1771.125260770975 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 1771.125260770975 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1771.125260770975 
+            text = "" 

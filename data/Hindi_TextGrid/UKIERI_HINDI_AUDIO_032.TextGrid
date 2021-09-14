@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 153.99473922902493 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Turn-taking" 
+        xmin = 0 
+        xmax = 153.99473922902493 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09430842005676438 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09430842005676438 
+            xmax = 12.27282119205298 
+            text = "TCU" 
+        intervals [3]:
+            xmin = 12.27282119205298 
+            xmax = 14.61040302743614 
+            text = "TCU" 
+        intervals [4]:
+            xmin = 14.61040302743614 
+            xmax = 52.084893133135225 
+            text = "TCU" 
+        intervals [5]:
+            xmin = 52.084893133135225 
+            xmax = 67.50974085867574 
+            text = "TCU" 
+        intervals [6]:
+            xmin = 67.50974085867574 
+            xmax = 92.34866236020886 
+            text = "INT" 
+        intervals [7]:
+            xmin = 92.34866236020886 
+            xmax = 93.15671534034131 
+            text = "TCU" 
+        intervals [8]:
+            xmin = 93.15671534034131 
+            xmax = 141.51990480754213 
+            text = "INT" 
+        intervals [9]:
+            xmin = 141.51990480754213 
+            xmax = 147.4360069761121 
+            text = "TCU" 
+        intervals [10]:
+            xmin = 147.4360069761121 
+            xmax = 152.74606941034077 
+            text = "TCU" 
+        intervals [11]:
+            xmin = 152.74606941034077 
+            xmax = 153.72727659927432 
+            text = "TCU" 
+        intervals [12]:
+            xmin = 153.72727659927432 
+            xmax = 153.99473922902493 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Aggression" 
+        xmin = 0 
+        xmax = 153.99473922902493 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09430842005676438 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09430842005676438 
+            xmax = 3.701687795648061 
+            text = "NAG" 
+        intervals [3]:
+            xmin = 3.701687795648061 
+            xmax = 12.27282119205298 
+            text = "OAG_NT" 
+        intervals [4]:
+            xmin = 12.27282119205298 
+            xmax = 14.61040302743614 
+            text = "NAG" 
+        intervals [5]:
+            xmin = 14.61040302743614 
+            xmax = 52.084893133135225 
+            text = "NAG" 
+        intervals [6]:
+            xmin = 52.084893133135225 
+            xmax = 67.50974085867574 
+            text = "NAG" 
+        intervals [7]:
+            xmin = 67.50974085867574 
+            xmax = 70.39564435914876 
+            text = "OAG_NT" 
+        intervals [8]:
+            xmin = 70.39564435914876 
+            xmax = 92.34866236020886 
+            text = "NAG" 
+        intervals [9]:
+            xmin = 92.34866236020886 
+            xmax = 93.15671534034131 
+            text = "NAG" 
+        intervals [10]:
+            xmin = 93.15671534034131 
+            xmax = 98.005033221136 
+            text = "OAG_NT" 
+        intervals [11]:
+            xmin = 98.005033221136 
+            xmax = 141.51990480754213 
+            text = "NAG" 
+        intervals [12]:
+            xmin = 141.51990480754213 
+            xmax = 147.4360069761121 
+            text = "NAG" 
+        intervals [13]:
+            xmin = 147.4360069761121 
+            xmax = 152.74606941034077 
+            text = "OAG_NT" 
+        intervals [14]:
+            xmin = 152.74606941034077 
+            xmax = 153.72727659927432 
+            text = "NAG" 
+        intervals [15]:
+            xmin = 153.72727659927432 
+            xmax = 153.99473922902493 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 153.99473922902493 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 153.99473922902493 
+            text = "" 

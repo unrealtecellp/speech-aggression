@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4004.536598639456 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Turn-taking" 
+        xmin = 0 
+        xmax = 4004.536598639456 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 341.2626814974291 
+            text = "TCU" 
+        intervals [2]:
+            xmin = 341.2626814974291 
+            xmax = 705.8495047961789 
+            text = "TCU" 
+        intervals [3]:
+            xmin = 705.8495047961789 
+            xmax = 4004.536598639456 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Aggression" 
+        xmin = 0 
+        xmax = 4004.536598639456 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 341.2626814974291 
+            text = "OAG_NT" 
+        intervals [2]:
+            xmin = 341.2626814974291 
+            xmax = 4004.536598639456 
+            text = "NAG" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 4004.536598639456 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4004.536598639456 
+            text = "" 

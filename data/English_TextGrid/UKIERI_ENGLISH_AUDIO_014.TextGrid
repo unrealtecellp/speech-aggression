@@ -1,0 +1,1566 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1260.4255782312925 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Turn-taking" 
+        xmin = 0 
+        xmax = 1260.4255782312925 
+        intervals: size = 119 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.992832415288347 
+            text = "TCU" 
+        intervals [2]:
+            xmin = 6.992832415288347 
+            xmax = 14.263140181911456 
+            text = "TCU" 
+        intervals [3]:
+            xmin = 14.263140181911456 
+            xmax = 17.424820634855255 
+            text = "TCU" 
+        intervals [4]:
+            xmin = 17.424820634855255 
+            xmax = 19.94760081236815 
+            text = "TCU" 
+        intervals [5]:
+            xmin = 19.94760081236815 
+            xmax = 21.25901652385613 
+            text = "TCU" 
+        intervals [6]:
+            xmin = 21.25901652385613 
+            xmax = 31.19560141331254 
+            text = "INT" 
+        intervals [7]:
+            xmin = 31.19560141331254 
+            xmax = 41.92562840128437 
+            text = "TCU" 
+        intervals [8]:
+            xmin = 41.92562840128437 
+            xmax = 45.08051537287389 
+            text = "TCU" 
+        intervals [9]:
+            xmin = 45.08051537287389 
+            xmax = 49.21618836884059 
+            text = "TCU" 
+        intervals [10]:
+            xmin = 49.21618836884059 
+            xmax = 65.11475660448039 
+            text = "TCU" 
+        intervals [11]:
+            xmin = 65.11475660448039 
+            xmax = 73.69571189510575 
+            text = "TCU" 
+        intervals [12]:
+            xmin = 73.69571189510575 
+            xmax = 76.27835853437367 
+            text = "TCU" 
+        intervals [13]:
+            xmin = 76.27835853437367 
+            xmax = 79.6174997062743 
+            text = "TCU" 
+        intervals [14]:
+            xmin = 79.6174997062743 
+            xmax = 91.4392965687288 
+            text = "TCU" 
+        intervals [15]:
+            xmin = 91.4392965687288 
+            xmax = 99.54693968994054 
+            text = "TCU" 
+        intervals [16]:
+            xmin = 99.54693968994054 
+            xmax = 100.41349767635677 
+            text = "TCU" 
+        intervals [17]:
+            xmin = 100.41349767635677 
+            xmax = 127.47968745464367 
+            text = "TCU" 
+        intervals [18]:
+            xmin = 127.47968745464367 
+            xmax = 131.44888119043702 
+            text = "TCU" 
+        intervals [19]:
+            xmin = 131.44888119043702 
+            xmax = 138.94796245542975 
+            text = "TCU" 
+        intervals [20]:
+            xmin = 138.94796245542975 
+            xmax = 143.15025855209697 
+            text = "TCU" 
+        intervals [21]:
+            xmin = 143.15025855209697 
+            xmax = 143.95528601855492 
+            text = "TCU" 
+        intervals [22]:
+            xmin = 143.95528601855492 
+            xmax = 147.2979872352612 
+            text = "TCU" 
+        intervals [23]:
+            xmin = 147.2979872352612 
+            xmax = 149.29139339675527 
+            text = "TCU" 
+        intervals [24]:
+            xmin = 149.29139339675527 
+            xmax = 153.51718494692616 
+            text = "TCU" 
+        intervals [25]:
+            xmin = 153.51718494692616 
+            xmax = 162.29228902628714 
+            text = "TCU" 
+        intervals [26]:
+            xmin = 162.29228902628714 
+            xmax = 166.2501987185047 
+            text = "INT" 
+        intervals [27]:
+            xmin = 166.2501987185047 
+            xmax = 169.34990172548714 
+            text = "TCU" 
+        intervals [28]:
+            xmin = 169.34990172548714 
+            xmax = 170.42250783489342 
+            text = "TCU" 
+        intervals [29]:
+            xmin = 170.42250783489342 
+            xmax = 183.7061129875382 
+            text = "INT" 
+        intervals [30]:
+            xmin = 183.7061129875382 
+            xmax = 209.52117498120597 
+            text = "TCU" 
+        intervals [31]:
+            xmin = 209.52117498120597 
+            xmax = 210.83692301133402 
+            text = "TCU" 
+        intervals [32]:
+            xmin = 210.83692301133402 
+            xmax = 213.96506845092603 
+            text = "TCU" 
+        intervals [33]:
+            xmin = 213.96506845092603 
+            xmax = 249.12139277448807 
+            text = "TCU" 
+        intervals [34]:
+            xmin = 249.12139277448807 
+            xmax = 255.62874398581542 
+            text = "TCU" 
+        intervals [35]:
+            xmin = 255.62874398581542 
+            xmax = 261.6372462571975 
+            text = "TCU" 
+        intervals [36]:
+            xmin = 261.6372462571975 
+            xmax = 263.00958354545554 
+            text = "TCU" 
+        intervals [37]:
+            xmin = 263.00958354545554 
+            xmax = 264.8336840404073 
+            text = "TCU" 
+        intervals [38]:
+            xmin = 264.8336840404073 
+            xmax = 267.4845964419493 
+            text = "TCU" 
+        intervals [39]:
+            xmin = 267.4845964419493 
+            xmax = 277.41772819582513 
+            text = "TCU" 
+        intervals [40]:
+            xmin = 277.41772819582513 
+            xmax = 282.31040896265836 
+            text = "TCU" 
+        intervals [41]:
+            xmin = 282.31040896265836 
+            xmax = 285.0120728992084 
+            text = "TCU" 
+        intervals [42]:
+            xmin = 285.0120728992084 
+            xmax = 285.6343127876733 
+            text = "TCU" 
+        intervals [43]:
+            xmin = 285.6343127876733 
+            xmax = 294.5222516368777 
+            text = "INT" 
+        intervals [44]:
+            xmin = 294.5222516368777 
+            xmax = 296.83221067487733 
+            text = "TCU" 
+        intervals [45]:
+            xmin = 296.83221067487733 
+            xmax = 317.0247993529446 
+            text = "INT" 
+        intervals [46]:
+            xmin = 317.0247993529446 
+            xmax = 337.7803703723861 
+            text = "TCU" 
+        intervals [47]:
+            xmin = 337.7803703723861 
+            xmax = 340.2965379644149 
+            text = "INT" 
+        intervals [48]:
+            xmin = 340.2965379644149 
+            xmax = 342.2740674729607 
+            text = "INT" 
+        intervals [49]:
+            xmin = 342.2740674729607 
+            xmax = 353.706574813152 
+            text = "TCU" 
+        intervals [50]:
+            xmin = 353.706574813152 
+            xmax = 357.99975779709365 
+            text = "TCU" 
+        intervals [51]:
+            xmin = 357.99975779709365 
+            xmax = 364.81640433256536 
+            text = "INT" 
+        intervals [52]:
+            xmin = 364.81640433256536 
+            xmax = 373.83220069309823 
+            text = "TCU" 
+        intervals [53]:
+            xmin = 373.83220069309823 
+            xmax = 379.4579311915475 
+            text = "TCU" 
+        intervals [54]:
+            xmin = 379.4579311915475 
+            xmax = 420.2774332468882 
+            text = "TCU" 
+        intervals [55]:
+            xmin = 420.2774332468882 
+            xmax = 483.2678548801072 
+            text = "TCU" 
+        intervals [56]:
+            xmin = 483.2678548801072 
+            xmax = 490.58740762680395 
+            text = "TCU" 
+        intervals [57]:
+            xmin = 490.58740762680395 
+            xmax = 490.9709801607891 
+            text = "OVP" 
+        intervals [58]:
+            xmin = 490.9709801607891 
+            xmax = 494.9788187183159 
+            text = "TCU" 
+        intervals [59]:
+            xmin = 494.9788187183159 
+            xmax = 496.00167880894304 
+            text = "TCU" 
+        intervals [60]:
+            xmin = 496.00167880894304 
+            xmax = 497.26320625404986 
+            text = "INT" 
+        intervals [61]:
+            xmin = 497.26320625404986 
+            xmax = 498.1923041697028 
+            text = "TCU" 
+        intervals [62]:
+            xmin = 498.1923041697028 
+            xmax = 538.1646907702614 
+            text = "TCU" 
+        intervals [63]:
+            xmin = 538.1646907702614 
+            xmax = 549.6300840244381 
+            text = "INT" 
+        intervals [64]:
+            xmin = 549.6300840244381 
+            xmax = 592.1113244355189 
+            text = "TCU" 
+        intervals [65]:
+            xmin = 592.1113244355189 
+            xmax = 608.679237798515 
+            text = "TCU" 
+        intervals [66]:
+            xmin = 608.679237798515 
+            xmax = 622.9453244880775 
+            text = "TCU" 
+        intervals [67]:
+            xmin = 622.9453244880775 
+            xmax = 627.129725634295 
+            text = "INT" 
+        intervals [68]:
+            xmin = 627.129725634295 
+            xmax = 638.2082898442592 
+            text = "TCU" 
+        intervals [69]:
+            xmin = 638.2082898442592 
+            xmax = 660.061816747227 
+            text = "INT" 
+        intervals [70]:
+            xmin = 660.061816747227 
+            xmax = 678.410819965209 
+            text = "TCU" 
+        intervals [71]:
+            xmin = 678.410819965209 
+            xmax = 684.5175503441614 
+            text = "TCU" 
+        intervals [72]:
+            xmin = 684.5175503441614 
+            xmax = 694.3240340090777 
+            text = "TCU" 
+        intervals [73]:
+            xmin = 694.3240340090777 
+            xmax = 715.2140594309664 
+            text = "TCU" 
+        intervals [74]:
+            xmin = 715.2140594309664 
+            xmax = 745.669976110959 
+            text = "TCU" 
+        intervals [75]:
+            xmin = 745.669976110959 
+            xmax = 748.1163164943755 
+            text = "TCU" 
+        intervals [76]:
+            xmin = 748.1163164943755 
+            xmax = 754.7371112107846 
+            text = "TCU" 
+        intervals [77]:
+            xmin = 754.7371112107846 
+            xmax = 757.8395910842587 
+            text = "" 
+        intervals [78]:
+            xmin = 757.8395910842587 
+            xmax = 798.5494933490297 
+            text = "INT" 
+        intervals [79]:
+            xmin = 798.5494933490297 
+            xmax = 804.8906291654175 
+            text = "TCU" 
+        intervals [80]:
+            xmin = 804.8906291654175 
+            xmax = 807.0021110032142 
+            text = "TCU" 
+        intervals [81]:
+            xmin = 807.0021110032142 
+            xmax = 808.0931617665498 
+            text = "TCU" 
+        intervals [82]:
+            xmin = 808.0931617665498 
+            xmax = 820.0902707922256 
+            text = "TCU" 
+        intervals [83]:
+            xmin = 820.0902707922256 
+            xmax = 823.2917884453253 
+            text = "INT" 
+        intervals [84]:
+            xmin = 823.2917884453253 
+            xmax = 827.5001334689077 
+            text = "TCU" 
+        intervals [85]:
+            xmin = 827.5001334689077 
+            xmax = 840.8902938829883 
+            text = "TCU" 
+        intervals [86]:
+            xmin = 840.8902938829883 
+            xmax = 843.7628259708328 
+            text = "INT" 
+        intervals [87]:
+            xmin = 843.7628259708328 
+            xmax = 848.0978095421589 
+            text = "TCU" 
+        intervals [88]:
+            xmin = 848.0978095421589 
+            xmax = 853.6407479076818 
+            text = "INT" 
+        intervals [89]:
+            xmin = 853.6407479076818 
+            xmax = 875.7262423209157 
+            text = "TCU" 
+        intervals [90]:
+            xmin = 875.7262423209157 
+            xmax = 915.0378246129955 
+            text = "TCU" 
+        intervals [91]:
+            xmin = 915.0378246129955 
+            xmax = 918.0828702990413 
+            text = "TCU" 
+        intervals [92]:
+            xmin = 918.0828702990413 
+            xmax = 975.4357887400727 
+            text = "INT" 
+        intervals [93]:
+            xmin = 975.4357887400727 
+            xmax = 995.6362968561505 
+            text = "TCU" 
+        intervals [94]:
+            xmin = 995.6362968561505 
+            xmax = 1000.4202053264752 
+            text = "INT" 
+        intervals [95]:
+            xmin = 1000.4202053264752 
+            xmax = 1018.3355073237608 
+            text = "TCU" 
+        intervals [96]:
+            xmin = 1018.3355073237608 
+            xmax = 1019.1239619769525 
+            text = "OVP" 
+        intervals [97]:
+            xmin = 1019.1239619769525 
+            xmax = 1025.243683383015 
+            text = "TCU" 
+        intervals [98]:
+            xmin = 1025.243683383015 
+            xmax = 1063.893042168756 
+            text = "TCU" 
+        intervals [99]:
+            xmin = 1063.893042168756 
+            xmax = 1064.8178781673646 
+            text = "TCU" 
+        intervals [100]:
+            xmin = 1064.8178781673646 
+            xmax = 1067.6380571980965 
+            text = "TCU" 
+        intervals [101]:
+            xmin = 1067.6380571980965 
+            xmax = 1081.6212291076224 
+            text = "TCU" 
+        intervals [102]:
+            xmin = 1081.6212291076224 
+            xmax = 1084.8475003101419 
+            text = "TCU" 
+        intervals [103]:
+            xmin = 1084.8475003101419 
+            xmax = 1089.056867302122 
+            text = "TCU" 
+        intervals [104]:
+            xmin = 1089.056867302122 
+            xmax = 1091.7333512059295 
+            text = "TCU" 
+        intervals [105]:
+            xmin = 1091.7333512059295 
+            xmax = 1113.4066579992402 
+            text = "INT" 
+        intervals [106]:
+            xmin = 1113.4066579992402 
+            xmax = 1119.6534177033598 
+            text = "TCU" 
+        intervals [107]:
+            xmin = 1119.6534177033598 
+            xmax = 1127.213666440176 
+            text = "TCU" 
+        intervals [108]:
+            xmin = 1127.213666440176 
+            xmax = 1130.3459797329601 
+            text = "INT" 
+        intervals [109]:
+            xmin = 1130.3459797329601 
+            xmax = 1140.2823501750572 
+            text = "INT" 
+        intervals [110]:
+            xmin = 1140.2823501750572 
+            xmax = 1140.9626375580315 
+            text = "TCU" 
+        intervals [111]:
+            xmin = 1140.9626375580315 
+            xmax = 1150.9491366868403 
+            text = "INT" 
+        intervals [112]:
+            xmin = 1150.9491366868403 
+            xmax = 1162.3757633960893 
+            text = "TCU" 
+        intervals [113]:
+            xmin = 1162.3757633960893 
+            xmax = 1198.6041492851275 
+            text = "TCU" 
+        intervals [114]:
+            xmin = 1198.6041492851275 
+            xmax = 1202.063410596524 
+            text = "INT" 
+        intervals [115]:
+            xmin = 1202.063410596524 
+            xmax = 1231.13237196646 
+            text = "TCU" 
+        intervals [116]:
+            xmin = 1231.13237196646 
+            xmax = 1239.559418118379 
+            text = "TCU" 
+        intervals [117]:
+            xmin = 1239.559418118379 
+            xmax = 1256.666056265045 
+            text = "TCU" 
+        intervals [118]:
+            xmin = 1256.666056265045 
+            xmax = 1259.0143722558591 
+            text = "TCU" 
+        intervals [119]:
+            xmin = 1259.0143722558591 
+            xmax = 1260.4255782312925 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Aggression" 
+        xmin = 0 
+        xmax = 1260.4255782312925 
+        intervals: size = 130 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.992832415288347 
+            text = "NAG" 
+        intervals [2]:
+            xmin = 6.992832415288347 
+            xmax = 14.263140181911456 
+            text = "NAG" 
+        intervals [3]:
+            xmin = 14.263140181911456 
+            xmax = 17.424820634855255 
+            text = "NAG" 
+        intervals [4]:
+            xmin = 17.424820634855255 
+            xmax = 19.94760081236815 
+            text = "NAG" 
+        intervals [5]:
+            xmin = 19.94760081236815 
+            xmax = 21.25901652385613 
+            text = "NAG" 
+        intervals [6]:
+            xmin = 21.25901652385613 
+            xmax = 31.19560141331254 
+            text = "NAG" 
+        intervals [7]:
+            xmin = 31.19560141331254 
+            xmax = 41.92562840128437 
+            text = "NAG" 
+        intervals [8]:
+            xmin = 41.92562840128437 
+            xmax = 45.08051537287389 
+            text = "NAG" 
+        intervals [9]:
+            xmin = 45.08051537287389 
+            xmax = 49.21618836884059 
+            text = "NAG" 
+        intervals [10]:
+            xmin = 49.21618836884059 
+            xmax = 65.11475660448039 
+            text = "NAG" 
+        intervals [11]:
+            xmin = 65.11475660448039 
+            xmax = 73.69571189510575 
+            text = "NAG" 
+        intervals [12]:
+            xmin = 73.69571189510575 
+            xmax = 76.27835853437367 
+            text = "NAG" 
+        intervals [13]:
+            xmin = 76.27835853437367 
+            xmax = 79.6174997062743 
+            text = "NAG" 
+        intervals [14]:
+            xmin = 79.6174997062743 
+            xmax = 91.4392965687288 
+            text = "NAG" 
+        intervals [15]:
+            xmin = 91.4392965687288 
+            xmax = 99.54693968994054 
+            text = "NAG" 
+        intervals [16]:
+            xmin = 99.54693968994054 
+            xmax = 100.41349767635677 
+            text = "NAG" 
+        intervals [17]:
+            xmin = 100.41349767635677 
+            xmax = 127.47968745464367 
+            text = "NAG" 
+        intervals [18]:
+            xmin = 127.47968745464367 
+            xmax = 131.44888119043702 
+            text = "NAG" 
+        intervals [19]:
+            xmin = 131.44888119043702 
+            xmax = 138.94796245542975 
+            text = "NAG" 
+        intervals [20]:
+            xmin = 138.94796245542975 
+            xmax = 143.15025855209697 
+            text = "NAG" 
+        intervals [21]:
+            xmin = 143.15025855209697 
+            xmax = 143.95528601855492 
+            text = "NAG" 
+        intervals [22]:
+            xmin = 143.95528601855492 
+            xmax = 147.2979872352612 
+            text = "NAG" 
+        intervals [23]:
+            xmin = 147.2979872352612 
+            xmax = 149.29139339675527 
+            text = "NAG" 
+        intervals [24]:
+            xmin = 149.29139339675527 
+            xmax = 153.51718494692616 
+            text = "NAG" 
+        intervals [25]:
+            xmin = 153.51718494692616 
+            xmax = 162.29228902628714 
+            text = "NAG" 
+        intervals [26]:
+            xmin = 162.29228902628714 
+            xmax = 166.2501987185047 
+            text = "NAG" 
+        intervals [27]:
+            xmin = 166.2501987185047 
+            xmax = 169.34990172548714 
+            text = "NAG" 
+        intervals [28]:
+            xmin = 169.34990172548714 
+            xmax = 170.42250783489342 
+            text = "NAG" 
+        intervals [29]:
+            xmin = 170.42250783489342 
+            xmax = 183.7061129875382 
+            text = "NAG" 
+        intervals [30]:
+            xmin = 183.7061129875382 
+            xmax = 209.52117498120597 
+            text = "NAG" 
+        intervals [31]:
+            xmin = 209.52117498120597 
+            xmax = 210.83692301133402 
+            text = "NAG" 
+        intervals [32]:
+            xmin = 210.83692301133402 
+            xmax = 213.96506845092603 
+            text = "NAG" 
+        intervals [33]:
+            xmin = 213.96506845092603 
+            xmax = 249.12139277448807 
+            text = "NAG" 
+        intervals [34]:
+            xmin = 249.12139277448807 
+            xmax = 255.62874398581542 
+            text = "NAG" 
+        intervals [35]:
+            xmin = 255.62874398581542 
+            xmax = 261.6372462571975 
+            text = "NAG" 
+        intervals [36]:
+            xmin = 261.6372462571975 
+            xmax = 263.00958354545554 
+            text = "NAG" 
+        intervals [37]:
+            xmin = 263.00958354545554 
+            xmax = 264.8336840404073 
+            text = "NAG" 
+        intervals [38]:
+            xmin = 264.8336840404073 
+            xmax = 267.4845964419493 
+            text = "NAG" 
+        intervals [39]:
+            xmin = 267.4845964419493 
+            xmax = 277.41772819582513 
+            text = "NAG" 
+        intervals [40]:
+            xmin = 277.41772819582513 
+            xmax = 282.31040896265836 
+            text = "NAG" 
+        intervals [41]:
+            xmin = 282.31040896265836 
+            xmax = 285.0120728992084 
+            text = "" 
+        intervals [42]:
+            xmin = 285.0120728992084 
+            xmax = 285.6343127876733 
+            text = "NAG" 
+        intervals [43]:
+            xmin = 285.6343127876733 
+            xmax = 294.5222516368777 
+            text = "NAG" 
+        intervals [44]:
+            xmin = 294.5222516368777 
+            xmax = 296.83221067487733 
+            text = "NAG" 
+        intervals [45]:
+            xmin = 296.83221067487733 
+            xmax = 317.0247993529446 
+            text = "NAG" 
+        intervals [46]:
+            xmin = 317.0247993529446 
+            xmax = 337.7803703723861 
+            text = "NAG" 
+        intervals [47]:
+            xmin = 337.7803703723861 
+            xmax = 340.2965379644149 
+            text = "NAG" 
+        intervals [48]:
+            xmin = 340.2965379644149 
+            xmax = 342.2740674729607 
+            text = "NAG" 
+        intervals [49]:
+            xmin = 342.2740674729607 
+            xmax = 353.706574813152 
+            text = "NAG" 
+        intervals [50]:
+            xmin = 353.706574813152 
+            xmax = 357.99975779709365 
+            text = "NAG" 
+        intervals [51]:
+            xmin = 357.99975779709365 
+            xmax = 364.81640433256536 
+            text = "NAG" 
+        intervals [52]:
+            xmin = 364.81640433256536 
+            xmax = 373.83220069309823 
+            text = "NAG" 
+        intervals [53]:
+            xmin = 373.83220069309823 
+            xmax = 379.4579311915475 
+            text = "OAG_NT" 
+        intervals [54]:
+            xmin = 379.4579311915475 
+            xmax = 420.2774332468882 
+            text = "NAG" 
+        intervals [55]:
+            xmin = 420.2774332468882 
+            xmax = 483.2678548801072 
+            text = "NAG" 
+        intervals [56]:
+            xmin = 483.2678548801072 
+            xmax = 490.58740762680395 
+            text = "NAG" 
+        intervals [57]:
+            xmin = 490.58740762680395 
+            xmax = 490.9709801607891 
+            text = "NAG" 
+        intervals [58]:
+            xmin = 490.9709801607891 
+            xmax = 494.9788187183159 
+            text = "NAG" 
+        intervals [59]:
+            xmin = 494.9788187183159 
+            xmax = 496.00167880894304 
+            text = "NAG" 
+        intervals [60]:
+            xmin = 496.00167880894304 
+            xmax = 497.26320625404986 
+            text = "NAG" 
+        intervals [61]:
+            xmin = 497.26320625404986 
+            xmax = 498.1923041697028 
+            text = "NAG" 
+        intervals [62]:
+            xmin = 498.1923041697028 
+            xmax = 530.7477272386271 
+            text = "NAG" 
+        intervals [63]:
+            xmin = 530.7477272386271 
+            xmax = 533.9356411877483 
+            text = "OAG_NT" 
+        intervals [64]:
+            xmin = 533.9356411877483 
+            xmax = 538.1646907702614 
+            text = "NAG" 
+        intervals [65]:
+            xmin = 538.1646907702614 
+            xmax = 549.6300840244381 
+            text = "NAG" 
+        intervals [66]:
+            xmin = 549.6300840244381 
+            xmax = 592.1113244355189 
+            text = "NAG" 
+        intervals [67]:
+            xmin = 592.1113244355189 
+            xmax = 608.679237798515 
+            text = "NAG" 
+        intervals [68]:
+            xmin = 608.679237798515 
+            xmax = 622.9453244880775 
+            text = "NAG" 
+        intervals [69]:
+            xmin = 622.9453244880775 
+            xmax = 627.129725634295 
+            text = "NAG" 
+        intervals [70]:
+            xmin = 627.129725634295 
+            xmax = 638.2082898442592 
+            text = "NAG" 
+        intervals [71]:
+            xmin = 638.2082898442592 
+            xmax = 660.061816747227 
+            text = "NAG" 
+        intervals [72]:
+            xmin = 660.061816747227 
+            xmax = 678.410819965209 
+            text = "NAG" 
+        intervals [73]:
+            xmin = 678.410819965209 
+            xmax = 684.5175503441614 
+            text = "NAG" 
+        intervals [74]:
+            xmin = 684.5175503441614 
+            xmax = 694.3240340090777 
+            text = "NAG" 
+        intervals [75]:
+            xmin = 694.3240340090777 
+            xmax = 715.2140594309664 
+            text = "NAG" 
+        intervals [76]:
+            xmin = 715.2140594309664 
+            xmax = 745.669976110959 
+            text = "NAG" 
+        intervals [77]:
+            xmin = 745.669976110959 
+            xmax = 748.1163164943755 
+            text = "NAG" 
+        intervals [78]:
+            xmin = 748.1163164943755 
+            xmax = 754.7371112107846 
+            text = "NAG" 
+        intervals [79]:
+            xmin = 754.7371112107846 
+            xmax = 757.8395910842587 
+            text = "" 
+        intervals [80]:
+            xmin = 757.8395910842587 
+            xmax = 794.6776344959682 
+            text = "NAG" 
+        intervals [81]:
+            xmin = 794.6776344959682 
+            xmax = 798.5494933490297 
+            text = "OAG_NT" 
+        intervals [82]:
+            xmin = 798.5494933490297 
+            xmax = 804.8906291654175 
+            text = "NAG" 
+        intervals [83]:
+            xmin = 804.8906291654175 
+            xmax = 807.0021110032142 
+            text = "NAG" 
+        intervals [84]:
+            xmin = 807.0021110032142 
+            xmax = 808.0931617665498 
+            text = "NAG" 
+        intervals [85]:
+            xmin = 808.0931617665498 
+            xmax = 820.0902707922256 
+            text = "NAG" 
+        intervals [86]:
+            xmin = 820.0902707922256 
+            xmax = 823.2917884453253 
+            text = "NAG" 
+        intervals [87]:
+            xmin = 823.2917884453253 
+            xmax = 827.5001334689077 
+            text = "NAG" 
+        intervals [88]:
+            xmin = 827.5001334689077 
+            xmax = 840.8902938829883 
+            text = "NAG" 
+        intervals [89]:
+            xmin = 840.8902938829883 
+            xmax = 843.7628259708328 
+            text = "NAG" 
+        intervals [90]:
+            xmin = 843.7628259708328 
+            xmax = 848.0978095421589 
+            text = "NAG" 
+        intervals [91]:
+            xmin = 848.0978095421589 
+            xmax = 853.6407479076818 
+            text = "NAG" 
+        intervals [92]:
+            xmin = 853.6407479076818 
+            xmax = 875.7262423209157 
+            text = "NAG" 
+        intervals [93]:
+            xmin = 875.7262423209157 
+            xmax = 880.1178491471892 
+            text = "OAG_NT" 
+        intervals [94]:
+            xmin = 880.1178491471892 
+            xmax = 882.0982252442205 
+            text = "NAG" 
+        intervals [95]:
+            xmin = 882.0982252442205 
+            xmax = 887.6377119949673 
+            text = "OAG_NT" 
+        intervals [96]:
+            xmin = 887.6377119949673 
+            xmax = 908.3102779549274 
+            text = "NAG" 
+        intervals [97]:
+            xmin = 908.3102779549274 
+            xmax = 915.0378246129955 
+            text = "OAG_NT" 
+        intervals [98]:
+            xmin = 915.0378246129955 
+            xmax = 918.0828702990413 
+            text = "NAG" 
+        intervals [99]:
+            xmin = 918.0828702990413 
+            xmax = 918.9949205465172 
+            text = "OAG_NT" 
+        intervals [100]:
+            xmin = 918.9949205465172 
+            xmax = 965.397738575629 
+            text = "NAG" 
+        intervals [101]:
+            xmin = 965.397738575629 
+            xmax = 967.6945108517566 
+            text = "OAG_NT" 
+        intervals [102]:
+            xmin = 967.6945108517566 
+            xmax = 970.1704882895089 
+            text = "NAG" 
+        intervals [103]:
+            xmin = 970.1704882895089 
+            xmax = 975.4357887400727 
+            text = "OAG_NT" 
+        intervals [104]:
+            xmin = 975.4357887400727 
+            xmax = 995.6362968561505 
+            text = "NAG" 
+        intervals [105]:
+            xmin = 995.6362968561505 
+            xmax = 1000.4202053264752 
+            text = "NAG" 
+        intervals [106]:
+            xmin = 1000.4202053264752 
+            xmax = 1018.3355073237608 
+            text = "NAG" 
+        intervals [107]:
+            xmin = 1018.3355073237608 
+            xmax = 1019.1239619769525 
+            text = "NAG" 
+        intervals [108]:
+            xmin = 1019.1239619769525 
+            xmax = 1025.243683383015 
+            text = "NAG" 
+        intervals [109]:
+            xmin = 1025.243683383015 
+            xmax = 1063.893042168756 
+            text = "NAG" 
+        intervals [110]:
+            xmin = 1063.893042168756 
+            xmax = 1064.8178781673646 
+            text = "NAG" 
+        intervals [111]:
+            xmin = 1064.8178781673646 
+            xmax = 1067.6380571980965 
+            text = "NAG" 
+        intervals [112]:
+            xmin = 1067.6380571980965 
+            xmax = 1081.6212291076224 
+            text = "NAG" 
+        intervals [113]:
+            xmin = 1081.6212291076224 
+            xmax = 1084.8475003101419 
+            text = "NAG" 
+        intervals [114]:
+            xmin = 1084.8475003101419 
+            xmax = 1089.056867302122 
+            text = "NAG" 
+        intervals [115]:
+            xmin = 1089.056867302122 
+            xmax = 1091.7333512059295 
+            text = "NAG" 
+        intervals [116]:
+            xmin = 1091.7333512059295 
+            xmax = 1113.4066579992402 
+            text = "NAG" 
+        intervals [117]:
+            xmin = 1113.4066579992402 
+            xmax = 1119.6534177033598 
+            text = "NAG" 
+        intervals [118]:
+            xmin = 1119.6534177033598 
+            xmax = 1127.213666440176 
+            text = "NAG" 
+        intervals [119]:
+            xmin = 1127.213666440176 
+            xmax = 1130.3459797329601 
+            text = "NAG" 
+        intervals [120]:
+            xmin = 1130.3459797329601 
+            xmax = 1140.2823501750572 
+            text = "NAG" 
+        intervals [121]:
+            xmin = 1140.2823501750572 
+            xmax = 1140.9626375580315 
+            text = "NAG" 
+        intervals [122]:
+            xmin = 1140.9626375580315 
+            xmax = 1150.9491366868403 
+            text = "NAG" 
+        intervals [123]:
+            xmin = 1150.9491366868403 
+            xmax = 1162.3757633960893 
+            text = "NAG" 
+        intervals [124]:
+            xmin = 1162.3757633960893 
+            xmax = 1198.6041492851275 
+            text = "NAG" 
+        intervals [125]:
+            xmin = 1198.6041492851275 
+            xmax = 1202.063410596524 
+            text = "NAG" 
+        intervals [126]:
+            xmin = 1202.063410596524 
+            xmax = 1231.13237196646 
+            text = "NAG" 
+        intervals [127]:
+            xmin = 1231.13237196646 
+            xmax = 1239.559418118379 
+            text = "NAG" 
+        intervals [128]:
+            xmin = 1239.559418118379 
+            xmax = 1256.666056265045 
+            text = "NAG" 
+        intervals [129]:
+            xmin = 1256.666056265045 
+            xmax = 1259.0143722558591 
+            text = "NAG" 
+        intervals [130]:
+            xmin = 1259.0143722558591 
+            xmax = 1260.4255782312925 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Transcription" 
+        xmin = 0 
+        xmax = 1260.4255782312925 
+        intervals: size = 136 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.786330335176912 
+            text = "Mrs. Gandhi" 
+        intervals [2]:
+            xmin = 0.786330335176912 
+            xmax = 4.681624527715469 
+            text = "can you imagine any circumstance in which you might" 
+        intervals [3]:
+            xmin = 4.681624527715469 
+            xmax = 6.992832415288347 
+            text = "once again become prime minister of India" 
+        intervals [4]:
+            xmin = 6.992832415288347 
+            xmax = 10.170297595123564 
+            text = "I can certainly imagine the circumstances" 
+        intervals [5]:
+            xmin = 10.170297595123564 
+            xmax = 12.381582843378043 
+            text = "but the question is whether I want to be " 
+        intervals [6]:
+            xmin = 12.381582843378043 
+            xmax = 14.263140181911456 
+            text = "or whether I'll agree to be or not" 
+        intervals [7]:
+            xmin = 14.263140181911456 
+            xmax = 15.585932903193797 
+            text = "what are the terms" 
+        intervals [8]:
+            xmin = 15.585932903193797 
+            xmax = 17.424820634855255 
+            text = "under which you would agree" 
+        intervals [9]:
+            xmin = 17.424820634855255 
+            xmax = 18.818725758634088 
+            text = "no, it is not a question of terms" 
+        intervals [10]:
+            xmin = 18.818725758634088 
+            xmax = 19.94760081236815 
+            text = "I don't want to be" 
+        intervals [11]:
+            xmin = 19.94760081236815 
+            xmax = 21.25901652385613 
+            text = "You often talk" 
+        intervals [12]:
+            xmin = 21.25901652385613 
+            xmax = 24.66864216562959 
+            text = "But uh in politics you can't make a very categorical answer" 
+        intervals [13]:
+            xmin = 24.66864216562959 
+            xmax = 26.34501887487931 
+            text = "I didn't want to to be in Parliament" 
+        intervals [14]:
+            xmin = 26.34501887487931 
+            xmax = 28.95209022464133 
+            text = "and I told everybody I won't stand" 
+        intervals [15]:
+            xmin = 28.95209022464133 
+            xmax = 31.19560141331254 
+            text = "but here I am" 
+        intervals [16]:
+            xmin = 31.19560141331254 
+            xmax = 33.25578765866302 
+            text = "What do you think the Indian" 
+        intervals [17]:
+            xmin = 33.25578765866302 
+            xmax = 34.80092102170331 
+            text = "people saw in you?" 
+        intervals [18]:
+            xmin = 34.80092102170331 
+            xmax = 36.42134149251149 
+            text = "do they feel that you had a particular " 
+        intervals [19]:
+            xmin = 36.42134149251149 
+            xmax = 38.62095149972589 
+            text = "sympathy for their cause?" 
+        intervals [20]:
+            xmin = 38.62095149972589 
+            xmax = 41.217355357016174 
+            text = "what made you the the figure that you are" 
+        intervals [21]:
+            xmin = 41.217355357016174 
+            xmax = 41.92562840128437 
+            text = "in their eyes?" 
+        intervals [22]:
+            xmin = 41.92562840128437 
+            xmax = 43.327934310598245 
+            text = "It's what I've done for them" 
+        intervals [23]:
+            xmin = 43.327934310598245 
+            xmax = 45.08051537287389 
+            text = "that's what they've seen that I have done" 
+        intervals [24]:
+            xmin = 45.08051537287389 
+            xmax = 49.21618836884059 
+            text = "'and yet they booted you out in 1977" 
+        intervals [25]:
+            xmin = 49.21618836884059 
+            xmax = 51.988967335154214 
+            text = "well... i think booted is a strong word" 
+        intervals [26]:
+            xmin = 51.988967335154214 
+            xmax = 53.959336980879954 
+            text = "uh we were defeated " 
+        intervals [27]:
+            xmin = 53.959336980879954 
+            xmax = 54.764834766592905 
+            text = "but " 
+        intervals [28]:
+            xmin = 54.764834766592905 
+            xmax = 57.33572893366834 
+            text = "within less than a month after the defeat" 
+        intervals [29]:
+            xmin = 57.33572893366834 
+            xmax = 58.68749716332706 
+            text = "they were coming back to me " 
+        intervals [30]:
+            xmin = 58.68749716332706 
+            xmax = 58.96341383529854 
+            text = "because" 
+        intervals [31]:
+            xmin = 58.96341383529854 
+            xmax = 60.28333657069799 
+            text = "there was such a " 
+        intervals [32]:
+            xmin = 60.28333657069799 
+            xmax = 65.11475660448039 
+            text = "such a very sustained  malicious propaganda that people were taken in by" 
+        intervals [33]:
+            xmin = 65.11475660448039 
+            xmax = 69.32307453888018 
+            text = "When people like your own Parliamentary spokesman describe you " 
+        intervals [34]:
+            xmin = 69.32307453888018 
+            xmax = 72.69653437948661 
+            text = "as the woman to whom the Gods  have entrusted the destiny of India" 
+        intervals [35]:
+            xmin = 72.69653437948661 
+            xmax = 99.54693968994054 
+            text = "" 
+        intervals [36]:
+            xmin = 99.54693968994054 
+            xmax = 100.41349767635677 
+            text = "certainly not" 
+        intervals [37]:
+            xmin = 100.41349767635677 
+            xmax = 103.75990264886667 
+            text = "uh like obviously that's  the question" 
+        intervals [38]:
+            xmin = 103.75990264886667 
+            xmax = 105.83307320819226 
+            text = "directed towards the state of Emergency" 
+        intervals [39]:
+            xmin = 105.83307320819226 
+            xmax = 108.03066834848278 
+            text = "which you declared in 1975" 
+        intervals [40]:
+            xmin = 108.03066834848278 
+            xmax = 110.53279158824259 
+            text = "when you gave yourself very great powers" 
+        intervals [41]:
+            xmin = 110.53279158824259 
+            xmax = 111.95782004701296 
+            text = "and you explained if I am right" 
+        intervals [42]:
+            xmin = 111.95782004701296 
+            xmax = 113.59926216666553 
+            text = "when you wrote the President" 
+        intervals [43]:
+            xmin = 113.59926216666553 
+            xmax = 114.52764061588722 
+            text = "requiring " 
+        intervals [44]:
+            xmin = 114.52764061588722 
+            xmax = 115.80984162093117 
+            text = "the permission to " 
+        intervals [45]:
+            xmin = 115.80984162093117 
+            xmax = 117.47323338599297 
+            text = "to carry out the state of urgency" 
+        intervals [46]:
+            xmin = 117.47323338599297 
+            xmax = 119.72895661480484 
+            text = "Information has reached us which  " 
+        intervals [47]:
+            xmin = 119.72895661480484 
+            xmax = 120.48808067482723 
+            text = "indicates that" 
+        intervals [48]:
+            xmin = 120.48808067482723 
+            xmax = 121.01394539081994 
+            text = "there is an " 
+        intervals [49]:
+            xmin = 121.01394539081994 
+            xmax = 121.4391816735054 
+            text = "imminent" 
+        intervals [50]:
+            xmin = 121.4391816735054 
+            xmax = 123.24447226551601 
+            text = "danger to the security " 
+        intervals [51]:
+            xmin = 123.24447226551601 
+            xmax = 124.22478797063822 
+            text = "of India" 
+        intervals [52]:
+            xmin = 124.22478797063822 
+            xmax = 125.88586291419664 
+            text = "What was the precise" 
+        intervals [53]:
+            xmin = 125.88586291419664 
+            xmax = 126.33706782483235 
+            text = "nature " 
+        intervals [54]:
+            xmin = 126.33706782483235 
+            xmax = 126.71685900860486 
+            text = "of " 
+        intervals [55]:
+            xmin = 126.71685900860486 
+            xmax = 127.47968745464367 
+            text = "that danger" 
+        intervals [56]:
+            xmin = 127.47968745464367 
+            xmax = 127.7585482505294 
+            text = "I am" 
+        intervals [57]:
+            xmin = 127.7585482505294 
+            xmax = 128.09938649237654 
+            text = "'fraid you" 
+        intervals [58]:
+            xmin = 128.09938649237654 
+            xmax = 128.49540806861793 
+            text = "can't" 
+        intervals [59]:
+            xmin = 128.49540806861793 
+            xmax = 130.72026664841928 
+            text = "um say anything with great precis" 
+        intervals [60]:
+            xmin = 130.72026664841928 
+            xmax = 131.44888119043702 
+            text = "precision" 
+        intervals [61]:
+            xmin = 131.44888119043702 
+            xmax = 135.14386041529661 
+            text = "But you talked to your people of a deep and widespread conspiracy" 
+        intervals [62]:
+            xmin = 135.14386041529661 
+            xmax = 137.22429477523147 
+            text = "of which you were sure they were aware" 
+        intervals [63]:
+            xmin = 137.22429477523147 
+            xmax = 138.94796245542975 
+            text = "what conspiracy?" 
+        intervals [64]:
+            xmin = 138.94796245542975 
+            xmax = 140.15118397842176 
+            text = "well, it's obvious, isn't it" 
+        intervals [65]:
+            xmin = 140.15118397842176 
+            xmax = 140.75170849977144 
+            text = "now the whole " 
+        intervals [66]:
+            xmin = 140.75170849977144 
+            xmax = 143.15025855209697 
+            text = "concept continent has been destabilised" 
+        intervals [67]:
+            xmin = 143.15025855209697 
+            xmax = 145.05293149892105 
+            text = "But this was the internal in..." 
+        intervals [68]:
+            xmin = 145.05293149892105 
+            xmax = 146.6065725160856 
+            text = "...ternal upheavel you were" 
+        intervals [69]:
+            xmin = 146.6065725160856 
+            xmax = 147.2979872352612 
+            text = "you've been warning" 
+        intervals [70]:
+            xmin = 147.2979872352612 
+            xmax = 147.84657450071037 
+            text = "'twas both" 
+        intervals [71]:
+            xmin = 147.84657450071037 
+            xmax = 149.29139339675527 
+            text = "It was supported from outside" 
+        intervals [72]:
+            xmin = 149.29139339675527 
+            xmax = 150.35735036601804 
+            text = "But you required the" 
+        intervals [73]:
+            xmin = 150.35735036601804 
+            xmax = 150.88970723899828 
+            text = "the" 
+        intervals [74]:
+            xmin = 150.88970723899828 
+            xmax = 153.51718494692616 
+            text = "the special powers  on the basis ofinternal upheaval" 
+        intervals [75]:
+            xmin = 153.51718494692616 
+            xmax = 154.28001339296495 
+            text = "The" 
+        intervals [76]:
+            xmin = 154.28001339296495 
+            xmax = 155.44768503568133 
+            text = "no the question was" 
+        intervals [77]:
+            xmin = 155.44768503568133 
+            xmax = 156.06443994949993 
+            text = "had it been " 
+        intervals [78]:
+            xmin = 156.06443994949993 
+            xmax = 158.73566122551588 
+            text = "only internal with no foreign interference" 
+        intervals [79]:
+            xmin = 158.73566122551588 
+            xmax = 161.1756380244261 
+            text = "one could have dealt with it in a much easier way" 
+        intervals [80]:
+            xmin = 161.1756380244261 
+            xmax = 162.29228902628714 
+            text = "but it is par..." 
+        intervals [81]:
+            xmin = 162.29228902628714 
+            xmax = 162.61040471867778 
+            text = "Mention " 
+        intervals [82]:
+            xmin = 162.61040471867778 
+            xmax = 163.12003904220157 
+            text = "you did'nt" 
+        intervals [83]:
+            xmin = 163.12003904220157 
+            xmax = 163.70001349438743 
+            text = "uh with respect " 
+        intervals [84]:
+            xmin = 163.70001349438743 
+            xmax = 166.2501987185047 
+            text = "Miss Gandhi  you did not mention foreign help even if you talk about internal" 
+        intervals [85]:
+            xmin = 166.2501987185047 
+            xmax = 167.71063208612722 
+            text = "No, one doesn't mention everything" 
+        intervals [86]:
+            xmin = 167.71063208612722 
+            xmax = 168.2916801365142 
+            text = "at any " 
+        intervals [87]:
+            xmin = 168.2916801365142 
+            xmax = 169.34990172548714 
+            text = "time why should one?" 
+        intervals [88]:
+            xmin = 169.34990172548714 
+            xmax = 170.16142134893266 
+            text = "Can I" 
+        intervals [89]:
+            xmin = 170.16142134893266 
+            xmax = 170.42250783489342 
+            text = "could I" 
+        intervals [90]:
+            xmin = 170.42250783489342 
+            xmax = 171.78910688077568 
+            text = "But it's very obvious" 
+        intervals [91]:
+            xmin = 171.78910688077568 
+            xmax = 173.19930515353528 
+            text = "once the people have followed " 
+        intervals [92]:
+            xmin = 173.19930515353528 
+            xmax = 173.65700222115856 
+            text = "the" 
+        intervals [93]:
+            xmin = 173.65700222115856 
+            xmax = 176.00779098328053 
+            text = "doings of international agencies" 
+        intervals [94]:
+            xmin = 176.00779098328053 
+            xmax = 178.49166833343475 
+            text = "and who was present at India at what time" 
+        intervals [95]:
+            xmin = 178.49166833343475 
+            xmax = 180.80736489259084 
+            text = "and what is happening today " 
+        intervals [96]:
+            xmin = 180.80736489259084 
+            xmax = 181.53124039670422 
+            text = "is born out" 
+        intervals [97]:
+            xmin = 181.53124039670422 
+            xmax = 183.7061129875382 
+            text = "everthing that we suspected earlier" 
+        intervals [98]:
+            xmin = 183.7061129875382 
+            xmax = 184.43881011208776 
+            text = "Can I" 
+        intervals [99]:
+            xmin = 184.43881011208776 
+            xmax = 185.53273856449232 
+            text = "put you the " 
+        intervals [100]:
+            xmin = 185.53273856449232 
+            xmax = 186.92530623832482 
+            text = "the findings of the " 
+        intervals [101]:
+            xmin = 186.92530623832482 
+            xmax = 188.44494192288266 
+            text = "Shah Commission which was set up  " 
+        intervals [102]:
+            xmin = 188.44494192288266 
+            xmax = 189.8630199171428 
+            text = "to enquire whether there were any" 
+        intervals [103]:
+            xmin = 189.8630199171428 
+            xmax = 192.71107334927916 
+            text = "cause to take you to court and have you condemned " 
+        intervals [104]:
+            xmin = 192.71107334927916 
+            xmax = 194.6649106479565 
+            text = "for excessive abuses of power" 
+        intervals [105]:
+            xmin = 194.6649106479565 
+            xmax = 195.91913953964587 
+            text = "In that report, they" 
+        intervals [106]:
+            xmin = 195.91913953964587 
+            xmax = 197.02280622753176 
+            text = "they quote " 
+        intervals [107]:
+            xmin = 197.02280622753176 
+            xmax = 197.83107977248352 
+            text = "on the " 
+        intervals [108]:
+            xmin = 197.83107977248352 
+            xmax = 200.14368786651454 
+            text = "basis for your " 
+        intervals [109]:
+            xmin = 200.14368786651454 
+            xmax = 201.74540414019452 
+            text = "requiring some urgency" 
+        intervals [110]:
+            xmin = 201.74540414019452 
+            xmax = 202.72247376682293 
+            text = "no evidence " 
+        intervals [111]:
+            xmin = 202.72247376682293 
+            xmax = 203.52425515478708 
+            text = "whatsoever" 
+        intervals [112]:
+            xmin = 203.52425515478708 
+            xmax = 205.77395717607922 
+            text = "police reports, home ministerial reports" 
+        intervals [113]:
+            xmin = 205.77395717607922 
+            xmax = 207.2639072047252 
+            text = "your intelligence services " 
+        intervals [114]:
+            xmin = 207.2639072047252 
+            xmax = 208.51813672662732 
+            text = "had given you no" 
+        intervals [115]:
+            xmin = 208.51813672662732 
+            xmax = 209.52117498120597 
+            text = "evidence whatsoever" 
+        intervals [116]:
+            xmin = 209.52117498120597 
+            xmax = 210.83692301133402 
+            text = "It is not true at all" 
+        intervals [117]:
+            xmin = 210.83692301133402 
+            xmax = 212.33553704704744 
+            text = "What had they given you?" 
+        intervals [118]:
+            xmin = 212.33553704704744 
+            xmax = 213.96506845092603 
+            text = "what had they told you precisely?" 
+        intervals [119]:
+            xmin = 213.96506845092603 
+            xmax = 215.47836896165222 
+            text = "It's not about who they're telling me" 
+        intervals [120]:
+            xmin = 215.47836896165222 
+            xmax = 216.31910329154175 
+            text = "I'm Prime Minister" 
+        intervals [121]:
+            xmin = 216.31910329154175 
+            xmax = 217.8030314824552 
+            text = "I have the business to  know" 
+        intervals [122]:
+            xmin = 217.8030314824552 
+            xmax = 220.33049541754156 
+            text = "and all reports do not come through police" 
+        intervals [123]:
+            xmin = 220.33049541754156 
+            xmax = 221.3513212542033 
+            text = "They come through" 
+        intervals [124]:
+            xmin = 221.3513212542033 
+            xmax = 223.07498893440157 
+            text = "other heads of other states" 
+        intervals [125]:
+            xmin = 223.07498893440157 
+            xmax = 224.949376431772 
+            text = "and very many other agencies" 
+        intervals [126]:
+            xmin = 224.949376431772 
+            xmax = 227.89063751345043 
+            text = "but they also had given those reports " 
+        intervals [127]:
+            xmin = 227.89063751345043 
+            xmax = 229.67397719962625 
+            text = "How did Justice Matthew know " 
+        intervals [128]:
+            xmin = 229.67397719962625 
+            xmax = 230.25405628163995 
+            text = "for instance" 
+        intervals [129]:
+            xmin = 230.25405628163995 
+            xmax = 232.37649096969128 
+            text = "and many other people " 
+        intervals [130]:
+            xmin = 232.37649096969128 
+            xmax = 233.92743667407305 
+            text = "who spoke at that time" 
+        intervals [131]:
+            xmin = 233.92743667407305 
+            xmax = 238.78602210455196 
+            text = "This report is an entirely prejudiced, one sided report that completely ignores" 
+        intervals [132]:
+            xmin = 238.78602210455196 
+            xmax = 241.33464849703125 
+            text = "whatever people had to say on the other side" 
+        intervals [133]:
+            xmin = 241.33464849703125 
+            xmax = 246.49929119364592 
+            text = "Most of the people who have given evidence are government servants whose whole livelihood" 
+        intervals [134]:
+            xmin = 246.49929119364592 
+            xmax = 249.12139277448807 
+            text = "and future depends on what they say here" 
+        intervals [135]:
+            xmin = 249.12139277448807 
+            xmax = 251.23530362845082 
+            text = "" 
+        intervals [136]:
+            xmin = 251.23530362845082 
+            xmax = 1260.4255782312925 
+            text = "" 
