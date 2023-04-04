@@ -1,6 +1,6 @@
 # Aggression in Hindi and English Speech
 
-This repository contains data, models and some utility scripts generated as part of UGC-UKIERI Project title ["Automatic Detection of Verbal Threat in Hindi and English Aggressive Speech"](https://sites.google.com/site/aggressionproject/home), led jointly by [Dr. Ritesh Kumar](https://www.ctrans.in/research/clresearch), K.M. Institute of Hindi and Linguistics, Dr. Bhimrao Ambedkar University, Agra and [Prof. Daniel Kadar](https://aru.ac.uk/people/daniel-kadar), University of Huddersfield, UK and carried out in collaboration with University of Surrey, UK, Jawaharlal Nehru University, New Delhi, Microsoft Research India, Bangalore and Panlingua Language Processing LLP, New Delhi.
+This repository contains data, models and some utility scripts generated as part of UGC-UKIERI Project title ["Automatic Detection of Verbal Threat in Hindi and English Aggressive Speech"](https://sites.google.com/site/aggressionproject/home), led jointly by [Dr. Ritesh Kumar](https://www.ctrans.in/research/clresearch), K.M. Institute of Hindi and Linguistics, Dr. Bhimrao Ambedkar University, Agra and [Prof. Daniel Kadar](https://aru.ac.uk/people/daniel-kadar), University of Huddersfield, UK and carried out in collaboration with University of Surrey, UK, Jawaharlal Nehru University, New Delhi, Microsoft Research India, Bangalore, [UnReaL-TecE LLP](http://unreal-tece.co.in/) and [Panlingua Language Processing LLP](http://panlingua.co.in/), New Delhi.
 
 ## Data
 
